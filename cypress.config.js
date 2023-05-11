@@ -1,4 +1,4 @@
 module.exports = {
-  'projectId': '4b7344',
+  projectId: "8vgw2w",
   e2e: {},
 }
